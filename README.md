@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="DJP logo" width="140">
-</p>
-
 # Dean Justin Pangilinan
 ### Support Analyst | BSIT Student at Batangas State University – Lipa Campus
 
